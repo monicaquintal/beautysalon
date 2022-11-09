@@ -14,8 +14,10 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
   <a href="#aula05">aula5</a>
 </div>
 
+<hr>
+
 <div align="center">
-  <img alt="layout" src="./imagens/capa.png" width="100%">
+<img alt="layout" src="./imagens/capa.png" width="100%">
 </div>
 
 <hr>
