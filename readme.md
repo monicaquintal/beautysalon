@@ -22,7 +22,7 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 <hr>
 
-<div id="aula01" align="center">
+<div id="aula01">
 <h2>📚 Aula 01:</h2>
 </div>
 
@@ -39,6 +39,27 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
   - criação do arquivo style.css.
   - conceitos: seletores, anatomia, cascading, specificity, responsividade, box model, layout.
 
-<div id="aula02" align="center">
+<div id="aula02">
 <h2>📚 Aula 02:</h2>
 </div>
+
+1. Estruturas do menu; 
+
+2. Pack de ícones;
+
+3. Menu mobile: 
+
+  - Abrir ao clicar no ícone;
+  - Tela cheia;
+  - Esconder ao clicar. 
+
+4. Seção (section):
+
+  - Sobre (imagem e texto);
+  - Serviços (cards).
+
+5. Rolagem suave;
+
+6. Header scroll.
+
+39'32"
