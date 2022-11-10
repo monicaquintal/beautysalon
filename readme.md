@@ -30,14 +30,14 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 2. Preparando o ambiente (HTML):
 
-  - criação do arquivo index.html;
-  - inserindo as primeiras tags;
-  - utilização de tags semânticas (header, main, footer).
+- [x] criação do arquivo index.html;
+- [x] inserindo as primeiras tags;
+- [x] utilização de tags semânticas (header, main, footer).
 
 3. Preparando o ambiente (CSS):
 
-  - criação do arquivo style.css.
-  - conceitos: seletores, anatomia, cascading, specificity, responsividade, box model, layout.
+- [x] criação do arquivo style.css.
+- [x] conceitos: seletores, anatomia, cascading, specificity, responsividade, box model, layout.
 
 <div id="aula02">
 <h2>📚 Aula 02:</h2>
@@ -49,14 +49,14 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 3. Menu mobile: 
 
-  - Abrir ao clicar no ícone;
-  - Tela cheia;
-  - Esconder ao clicar. 
+- [x] Abrir ao clicar no ícone;
+- [x] Tela cheia;
+- [x] Esconder ao clicar. 
 
 4. Seção (section):
 
-  - Sobre (imagem e texto);
-  - Serviços (cards).
+- [x] Sobre (imagem e texto);
+- [x] Serviços (cards).
 
 5. Rolagem suave;
 
