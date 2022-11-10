@@ -49,14 +49,14 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 3. Menu mobile: 
 
-- [x] Abrir ao clicar no ícone;
-- [x] Tela cheia;
-- [x] Esconder ao clicar. 
+- [] Abrir ao clicar no ícone;
+- [] Tela cheia;
+- [] Esconder ao clicar. 
 
 4. Seção (section):
 
-- [x] Sobre (imagem e texto);
-- [x] Serviços (cards).
+- [] Sobre (imagem e texto);
+- [] Serviços (cards).
 
 5. Rolagem suave;
 
