@@ -26,40 +26,42 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 <h2>📚 Aula 01:</h2>
 </div>
 
-1. Acesso ao [Figma](https://www.figma.com/community/file/1009807319507822993) contendo o projeto.
+### 1. Acesso ao [Figma](https://www.figma.com/community/file/1009807319507822993) contendo o projeto. [x]
 
-2. Preparando o ambiente (HTML):
+### 2. Preparando o ambiente (HTML): [x]
 
-- [x] criação do arquivo index.html;
-- [x] inserindo as primeiras tags;
-- [x] utilização de tags semânticas (header, main, footer).
+- criação do arquivo index.html;
+- inserindo as primeiras tags;
+- utilização de tags semânticas (header, main, footer).
 
-3. Preparando o ambiente (CSS):
+### 3. Preparando o ambiente (CSS): [x]
 
-- [x] criação do arquivo style.css.
-- [x] conceitos: seletores, anatomia, cascading, specificity, responsividade, box model, layout.
+- criação do arquivo style.css.
+- conceitos: seletores, anatomia, cascading, specificity, responsividade, box model, layout.
 
 <div id="aula02">
 <h2>📚 Aula 02:</h2>
 </div>
 
-1. Estruturas do menu; 
+### 1. Estruturas do menu; [x]
 
-2. Pack de ícones;
+### 2. Pack de ícones: [x]
 
-3. Menu mobile: 
+  - disponibilizados os links do [IcoMoon](https://icomoon.io/app) e do [flaticon](https://www.flaticon.com/br/).
 
-- [] Abrir ao clicar no ícone;
-- [] Tela cheia;
-- [] Esconder ao clicar. 
+### 3. Menu mobile: 
 
-4. Seção (section):
+- Abrir ao clicar no ícone;
+- Tela cheia;
+- Esconder ao clicar. 
 
-- [] Sobre (imagem e texto);
-- [] Serviços (cards).
+### 4. Seção (section):
 
-5. Rolagem suave;
+- Sobre (imagem e texto);
+- Serviços (cards).
 
-6. Header scroll.
+### 5. Rolagem suave;
+
+### 6. Header scroll.
 
 39'32"
