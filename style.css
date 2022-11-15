@@ -359,3 +359,16 @@ top: 1.5rem;
   font-size: 1.5rem;
   margin-bottom: 0.75rem;
 }
+
+/* ------------------ testimonials ------------------ */ 
+
+#testimonials {
+  background: white;
+}
+
+#testimonials blockquote {
+  padding: 2rem;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+  border-radius: .25rem;
+}
+

@@ -72,6 +72,23 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 ### 6. Header scroll.
 
+<hr>
+
 <div id="aula03">
 <h2>📚 Aula 03:</h2>
 </div>
+
+### Depoimentos:
+
+- estrutura HTML;
+- fotos dos users;
+- estilizar a seção;
+- biblioteca Swiper.
+
+### Contato
+
+- estrutura HTML;
+- estilo;
+- enviar mensagem via whats.
+
+### animação quando rolar a página (scrollreveal)
