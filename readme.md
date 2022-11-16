@@ -89,6 +89,18 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 - estrutura HTML;
 - estilo;
-- enviar mensagem via whats.
+- [enviar mensagem via whats](https://faq.whatsapp.com/563219570998715/?cms_platform=iphone&locale=pt_BR):
 
-### Animação quando rolar a página (scrollreveal)
+  1. Copie e cole este link: https://api.whatsapp.com/send?phone=seunumerodetelefone&text=sua%20mensagem
+  2. Substitua o espaço “seunumerodetelefone” pelo seu número, da seguinte maneira: XXYY000000000. Sendo que:
+
+    - “XX” é o código internacional do seu número. O código do Brasil é 55, então, se o seu celular for daqui, substitua XX por 55.
+    - “YY” é o DDD. Se seu número for de São Paulo, por exemplo, substitua YY por 11; se for do Rio de Janeiro, substitua YY por 21.
+    - “000000000” é o seu número de telefone. Se ele for, por exemplo, 98765-4321, substitua o 000000000 por 987654321. 
+
+  3. Substitua o espaço “sua%20mensagem” pela sua mensagem, da seguinte maneira:
+
+    - Como não é possível inserir acentos e espaços nos links, é necessário substituí-los por símbolos. 
+    - Assim, se você quiser que a sua mensagem seja “Olá, meu amigo!”, você precisará substituir o espaço “sua%20mensagem” por “Ol%C3%A1%2C%20meu%20amigo!”
+
+### Animação quando rolar a página: [scrollreveal](https://scrollrevealjs.org/).
