@@ -83,7 +83,7 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 - estrutura HTML;
 - fotos dos users;
 - estilizar a seção;
-- biblioteca Swiper.
+- [biblioteca Swiper](https://swiperjs.com/).
 
 ### Contato
 
@@ -91,4 +91,4 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 - estilo;
 - enviar mensagem via whats.
 
-### animação quando rolar a página (scrollreveal)
+### Animação quando rolar a página (scrollreveal)

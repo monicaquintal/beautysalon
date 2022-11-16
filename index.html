@@ -9,13 +9,17 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <!-- icones -->
     <link rel="stylesheet" type="text/css" href="./assets/fonts/style.css" />
+    <!-- swiper js -->
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
     <!-- fontes -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins&display=swap"
-      rel="stylesheet"
-    />
+      rel="stylesheet" />
+    
   </head>
   <body>
     <header id="header" class="scroll">
@@ -103,58 +107,63 @@
       <div class="divider-1"></div>
 
       <section class="section" id="testimonials"> <!-- depoimentos -->
-        <div class="container grid">
+        <div class="container">
           <header>
             <h2 class="title">Depoimentos de quem já passou por aqui</h2>
           </header>
-            <div class="testimonials">
-              <div class="testimonial">
-                <blockquote>
-                  <p>
-                    <span>&ldquo;</span>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
-                  </p>
-                  <cite>
-                    <img src="./assets/fotos/user1.jpg" alt="foto da fulana">
-                    Fulana
-                  </cite>
-                </blockquote>
-              </div>
+            <div class="testimonials swiper">
+              <div class="swiper-wrapper">
+                <div class="testimonial swiper-slide">
+                  <blockquote>
+                    <p>
+                      <span>&ldquo;</span>
+                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
+                    </p>
+                    <cite>
+                      <img src="./assets/fotos/user1.jpg" alt="foto da fulana">
+                      Fulana
+                    </cite>
+                  </blockquote>
+                </div>
 
-              <div class="testimonial">
-                <blockquote>
-                  <p>
-                    <span>&ldquo;</span>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
-                  </p>
-                  <cite>
-                    <img src="./assets/fotos/user2.jpg" alt="foto da beltrana">
-                    Beltrana
-                  </cite>
-                </blockquote>
-              </div>
+                <div class="testimonial swiper-slide">
+                  <blockquote>
+                    <p>
+                      <span>&ldquo;</span>
+                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
+                    </p>
+                    <cite>
+                      <img src="./assets/fotos/user2.jpg" alt="foto da beltrana">
+                      Beltrana
+                    </cite>
+                  </blockquote>
+                </div>
 
-              <div class="testimonial">
-                <blockquote>
-                  <p>
-                    <span>&ldquo;</span>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
-                  </p>
-                  <cite>
-                    <img src="./assets/fotos/user3.jpg" alt="foto da ciclana">
-                    Ciclana
-                  </cite>
-                </blockquote>
+                <div class="testimonial swiper-slide">
+                  <blockquote>
+                    <p>
+                      <span>&ldquo;</span>
+                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui magni atque veritatis doloremque sed. Minima reprehenderit, dignissimos molestias quae facere, sit consectetur quasi porro molestiae quod accusamus nesciunt, temporibus mollitia.
+                    </p>
+                    <cite>
+                      <img src="./assets/fotos/user3.jpg" alt="foto da ciclana">
+                      Ciclana
+                    </cite>
+                  </blockquote>
+                </div>
               </div>
-
-            </div>
+              <!-- If we need pagination -->
+              <div class="swiper-pagination"></div>
+          </div>
         </div>
       </section>
     </main>
 
     <footer></footer>
 
-    <!-- -->
+    <!-- swiper -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <!-- main.js -->
     <script src="./main.js"></script>
 
   </body>

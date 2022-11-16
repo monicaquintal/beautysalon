@@ -31,3 +31,18 @@ window.addEventListener('scroll', function(){
     // scroll < altura do header
     header.classList.remove('scroll')
   }})
+
+  /* testimonials carousel slider - biblioteca swiper js */
+
+   const swiper = new Swiper('.swiper', {
+    slidesPerView: 1,
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    },
+    mousewheel: {
+      invert: true,
+    },
+    keyboard: true
+  })
