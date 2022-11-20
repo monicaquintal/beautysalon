@@ -20,17 +20,19 @@ for (const link of links) {
 
 /* rodar o header da página quando der scroll */
 
-const header = document.querySelector("#header")
-const navHeight = header.offsetHeight
+function changeHeaderWhenScroll () {
 
-window.addEventListener('scroll', function(){
+  const header = document.querySelector("#header")
+  const navHeight = header.offsetHeight
+
   if(window.scrollY >= navHeight){
     // scroll > altura do header
     header.classList.add('scroll')
   } else {
     // scroll < altura do header
     header.classList.remove('scroll')
-  }})
+  }
+}
 
   /* testimonials carousel slider - biblioteca swiper js */
 
@@ -66,3 +68,23 @@ scrollReveal.reveal(
   `,
   { interval: 100 }
 )
+
+/* botão voltar para o topo */
+
+function backToTop() {
+
+  const backToTopButton = document.querySelector('.back-to-top')
+
+  if(this.window.scrollY >= 560) {
+    backToTopButton.classList.add('show')
+  } else {
+    backToTopButton.classList.remove('show')
+  }
+}
+
+/* when scroll */
+
+window.addEventListener('scroll', function() {
+  changeHeaderWhenScroll()
+  backToTop()
+})

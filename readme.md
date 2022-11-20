@@ -104,3 +104,23 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
     - Assim, se você quiser que a sua mensagem seja “Olá, meu amigo!”, você precisará substituir o espaço “sua%20mensagem” por “Ol%C3%A1%2C%20meu%20amigo!”
 
 ### Animação quando rolar a página: [scrollreveal](https://scrollrevealjs.org/).
+
+<hr>
+
+<div id="aula04">
+<h2>📚 Aula 04:</h2>
+</div>
+
+### Criação do rodapé:
+
+- estruturas HTML;
+- redes sociais;
+- estilizar.
+
+### Voltar para cima:
+
+- estruturas HTML;
+- estilo;
+- criar lógica.
+
+### Introdução a Media Queries.
