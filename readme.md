@@ -123,4 +123,6 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 - estilo;
 - criar lógica.
 
-### Introdução a Media Queries.
+### Introdução a Media Queries:
+
+-breakpoints: são "pontos de quebra" do layout, onde passará a receber propriedades CSS específicas.
