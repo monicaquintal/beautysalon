@@ -1,4 +1,5 @@
 /* abre e fecha o menu quando clicar no ícone: hamburguer e x */
+
 const nav = document.querySelector('#header nav')
 const toggle = document.querySelectorAll('nav .toggle')
 
@@ -46,7 +47,13 @@ function changeHeaderWhenScroll () {
     mousewheel: {
       invert: true,
     },
-    keyboard: true
+    keyboard: true,
+    breakpoints: {
+      767: {
+        slidesPerView: 2,
+        setWrapperSize: true
+      }
+    }
   })
 
 /* scroll reveal: mostrar elementos quando der scroll na página */

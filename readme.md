@@ -125,4 +125,26 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 ### Introdução a Media Queries:
 
--breakpoints: são "pontos de quebra" do layout, onde passará a receber propriedades CSS específicas.
+- breakpoints: são "pontos de quebra" do layout, onde passará a receber propriedades CSS específicas.
+
+<hr>
+
+<div id="aula05">
+<h2>📚 Aula 05:</h2>
+</div>
+
+### Media Queries
+
+- [x] menu;
+- [x] home;
+- [x] about;
+- [x] services;
+- [x] testimonials:
+  - [x] ajuste JS
+- [x] contact;
+- [x] footer:
+  - [x] social com grid.
+- [x] bugfix;
+- [ ] link ativo.
+
+48min
