@@ -147,4 +147,4 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 - [x] bugfix;
 - [ ] link ativo.
 
-48min
+56 min
