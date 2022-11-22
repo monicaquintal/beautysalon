@@ -135,16 +135,18 @@ OriginSix é o layout de uma landing page responsiva e personalizável para o sa
 
 ### Media Queries
 
-- [x] menu;
-- [x] home;
-- [x] about;
-- [x] services;
-- [x] testimonials:
-  - [x] ajuste JS
-- [x] contact;
-- [x] footer:
-  - [x] social com grid.
-- [x] bugfix;
-- [ ] link ativo.
+- menu;
+- home;
+- about;
+- services;
+- testimonials:
+  - ajuste JS
+- contact;
+- footer:
+  - social com grid.
 
-56 min
+### Bugfix
+
+### Link ativo
+
+### Incluindo no Git/GitHub

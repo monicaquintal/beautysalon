@@ -159,16 +159,17 @@ nav ul li {
 }
 
 nav ul li a {
-  transition: color 0.3s;
+  transition: color 0.2s;
   position: relative;
 }
 
-nav ul li a:hover {
+nav ul li a:hover,
+nav ul li a.active {
   color: var(--base-color);
 }
 
 nav ul li a::after {
-  content: "";
+  content: '';
   width: 0%;
   height: 2px;
   background: var(--base-color);
@@ -177,10 +178,11 @@ nav ul li a::after {
   left: 0;
   bottom: -1.5rem;
 
-  transition: width 0.3s;
+  transition: width 0.2s;
 }
 
-nav ul li a:hover::after {
+nav ul li a:hover::after,
+nav ul li a.active::after {
   width: 100%;
 }
 
@@ -576,6 +578,12 @@ footer .social a:hover {
 
   nav .menu ul li a.title {
     font: 400 1rem var(--body-font);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  nav .menu ul li a.title.active {
+    font-weight: bold;
+    -webkit-font-smoothing: auto;
   }
 
   nav .icon-menu {
